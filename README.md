@@ -16,3 +16,4 @@ The pages will populate before the Start page and will be ready to print.
 Do not delete the template page.
 
 # Example of Use
+![example](https://user-images.githubusercontent.com/43489192/115100682-0733aa00-9ef3-11eb-9903-3203bd85b681.png)
